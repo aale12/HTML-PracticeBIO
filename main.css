@@ -16,8 +16,9 @@ img{
 section{
     float: right;
 }
-div{
+.paragraph{
     margin-left: 20px;
     max-width: 1000px;
     float: left;
+    color: red;
 }
