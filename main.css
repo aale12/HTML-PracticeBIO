@@ -1,9 +1,23 @@
-h2{
+h1{
     color: green;
+    text-align: center;
+    background-color: black;
+    text-size-adjust: 50px;
 }
 body{
-    background-color: aquamarine
+    background-color: aliceblue
 }
 img{
     border: 6px solid orangered;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+section{
+    float: right;
+}
+div{
+    margin-left: 20px;
+    max-width: 1000px;
+    float: left;
 }
